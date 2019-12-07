@@ -36,7 +36,7 @@
     "file-loader": "^0.8.4",
     "font-awesome": "^4.6.3",
     "fuse.js": "^2.5.0",
-    "highcharts": "^v5.0.0",
+    "highcharts": "^v6.1.0",
     "jquery": "^3.1.0",
     "jquery-sparkline": "^2.3.2",
     "js-cookie": "^2.1.3",
